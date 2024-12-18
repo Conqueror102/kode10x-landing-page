@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="871" height="108" viewBox="0 0 871 108" fill="none">
+  <path d="M801.102 43.999L796.256 39.1538L801.102 34.3086" stroke="black" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M536.898 12.6904L532.053 7.8452L536.898 2.99998" stroke="#512DA8" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M716 38.1745L685.989 8.16309H533.673" stroke="#512DA8" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="1.41421" width="9.27968" height="9.27968" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 624.508 9.16309)" fill="#512DA8" stroke="#512DA8" stroke-width="2"></rect>
+  <path d="M692.031 103.03L687.186 98.185L692.031 93.3398" stroke="#FFD147" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M956 59.4561H884.683L843.699 98.5031H689.447" stroke="#FFD147" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="1.76777" width="9.77968" height="9.77968" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 746.033 99.7373)" fill="#F5F7FA" stroke="#FFD147" stroke-width="2.5"></rect>
+  <rect x="240.312" y="60.1787" width="7.27968" height="7.27968" transform="rotate(135 240.312 60.1787)" fill="#ED6C50"></rect>
+  <rect x="19.25" y="26.2725" width="17.4761" height="17.4761" rx="8.73807" transform="rotate(180 19.25 26.2725)" fill="#F5F7FA" stroke="#ED6C50" stroke-width="2.5"></rect>
+  <rect x="14.25" y="21.2725" width="7.5" height="7.5" rx="3.75" transform="rotate(180 14.25 21.2725)" fill="#F5F7FA" stroke="#ED6C50" stroke-width="2.5"></rect>
+  <path d="M415.219 39.5272L386.175 60.5029H187.39L142.857 16.2926H19.5848" stroke="#ED6C50" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="345.346" y="60.8232" width="9.77968" height="9.77968" transform="rotate(135 345.346 60.8232)" fill="#F5F7FA" stroke="#ED6C50" stroke-width="2.5"></rect>
+  <path d="M459.684 43.999L454.838 39.1538L459.684 34.3086" stroke="black" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M958 38.6357H151" stroke="url(#paint0_linear_2356_129606)" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="1.25" y="-1.25" width="17.4761" height="17.4761" rx="8.73807" transform="matrix(-1 0 0 1 642.5 30.999)" fill="#F5F7FA" stroke="black" stroke-width="2.5"></rect>
+  <rect x="1.25" y="-1.25" width="7.5" height="7.5" rx="3.75" transform="matrix(-1 0 0 1 637.5 35.999)" fill="#F5F7FA" stroke="black" stroke-width="2.5"></rect>
+  <defs>
+    <linearGradient id="paint0_linear_2356_129606" x1="589.5" y1="38.6357" x2="178.5" y2="38.6357" gradientUnits="userSpaceOnUse">
+      <stop></stop>
+      <stop offset="1" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+</svg>
